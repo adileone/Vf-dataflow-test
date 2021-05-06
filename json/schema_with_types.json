@@ -1,0 +1,222 @@
+[
+  {
+    "field": "DBName",
+    "type": "STRING"
+  },
+  {
+    "field": "AcquisitionTiming",
+    "type": "DATETIME"
+  },
+  {
+    "field": "HomeOperator",
+    "type": "STRING"
+  },
+  {
+    "field": "ASideDevice",
+    "type": "STRING"
+  },
+  {
+    "field": "FirmwareV",
+    "type": "STRING"
+  },
+  {
+    "field": "CollectionName",
+    "type": "STRING"
+  },
+  {
+    "field": "MCC",
+    "type": "STRING"
+  },
+  {
+    "field": "MNC",
+    "type": "STRING"
+  },
+  {
+    "field": "latitude",
+    "type": "DOUBLE"
+  },
+  {
+    "field": "longitude",
+    "type": "DOUBLE"
+  },
+  {
+    "field": "MsgId",
+    "type": "STRING"
+  },
+  {
+    "field": "SessionId",
+    "type": "STRING"
+  },
+  {
+    "field": "TestId",
+    "type": "STRING"
+  },
+  {
+    "field": "NetworkId",
+    "type": "STRING"
+  },
+  {
+    "field": "PosId",
+    "type": "STRING"
+  },
+  {
+    "field": "KPIId",
+    "type": "STRING"
+  },
+  {
+    "field": "StartTime",
+    "type": "DATETIME"
+  },
+  {
+    "field": "EndTime",
+    "type": "DATETIME"
+  },
+  {
+    "field": "Duration",
+    "type": "DOUBLE"
+  },
+  {
+    "field": "ErrorCode",
+    "type": "STRING"
+  },
+  {
+    "field": "Sum",
+    "type": "DOUBLE"
+  },
+  {
+    "field": "Counter",
+    "type": "INT32"
+  },
+  {
+    "field": "Value1",
+    "type": "DOUBLE"
+  },
+  {
+    "field": "Value2",
+    "type": "INT32"
+  },
+  {
+    "field": "Value3",
+    "type": "STRING"
+  },
+  {
+    "field": "Value4",
+    "type": "STRING"
+  },
+  {
+    "field": "Value5",
+    "type": "STRING"
+  },
+  {
+    "field": "TriggerTime",
+    "type": "DATETIME"
+  },
+  {
+    "field": "ErrorCodeImport",
+    "type": "STRING"
+  },
+  {
+    "field": "Description",
+    "type": "STRING"
+  },
+  {
+    "field": "Options",
+    "type": "STRING"
+  },
+  {
+    "field": "Campaign",
+    "type": "STRING"
+  },
+  {
+    "field": "Technology",
+    "type": "STRING"
+  },
+  {
+    "field": "ServiceCategory",
+    "type": "STRING"
+  },
+  {
+    "field": "Test",
+    "type": "STRING"
+  },
+  {
+    "field": "SubTest",
+    "type": "STRING"
+  },
+  {
+    "field": "Country",
+    "type": "STRING"
+  },
+  {
+    "field": "CountryCode",
+    "type": "STRING"
+  },
+  {
+    "field": "SubTarget",
+    "type": "STRING"
+  },
+  {
+    "field": "Scope",
+    "type": "STRING"
+  },
+  {
+    "field": "Target",
+    "type": "STRING"
+  },
+  {
+    "field": "AreaOfInterest",
+    "type": "STRING"
+  },
+  {
+    "field": "TestModality",
+    "type": "STRING"
+  },
+  {
+    "field": "RanVendor",
+    "type": "STRING"
+  },
+  {
+    "field": "VolteEnabled",
+    "type": "STRING"
+  },
+  {
+    "field": "LteCAEnabled",
+    "type": "STRING"
+  },
+  {
+    "field": "NrNSAEnabled",
+    "type": "STRING"
+  },
+  {
+    "field": "CampaignGoal",
+    "type": "STRING"
+  },
+  {
+    "field": "NedSubmissionMonth",
+    "type": "DATETIME"
+  },
+  {
+    "field": "NQDICurrentVersion",
+    "type": "STRING"
+  },
+  {
+    "field": "NQDIRecommendedVersion",
+    "type": "STRING"
+  },
+  {
+    "field": "SqlAgentVersion",
+    "type": "STRING"
+  },
+  {
+    "field": "TestMethodology",
+    "type": "STRING"
+  },
+  {
+    "field": "HandsetCapability",
+    "type": "STRING"
+  },
+  {
+    "field": "Scenario",
+    "type": "STRING"
+  }
+]

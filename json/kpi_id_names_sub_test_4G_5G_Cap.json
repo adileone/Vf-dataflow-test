@@ -1,0 +1,103 @@
+[
+  {
+    "Avg-DurationSec_All": {
+      "75502_65502_675502_665502": "HTTP + HTTPS DOWNLINK - DOWNLOAD Transfer Time [S]",
+      "76002_66002_676002_666002": "HTTP + HTTPS UPLINK - UPLOAD Transfer Time [S]",
+      "76505_77005_676505_677005": "HTTP + HTTPS BROWSING - D5. SESSION TIME AVG [S]",
+      "76501_77001_676501_677001": "HTTP + HTTPS BROWSING - IP SERVICE ACCESS TIME [S]",
+      "76502_77002_676502_677002": "HTTP + HTTPS BROWSING - HTTP TRANSFER TIME [S]",
+      "76500_77000_676500_677000": "HTTP + HTTPS BROWSING - DNS RESOLUTION TIME [S]",
+      "76506_77006_676506_677006": "HTTP + HTTPS BROWSING - TIME TO DOWNLOAD 500 KBIT [S]"
+    }
+  },
+  {
+    "Avg-Value1_All": {
+      "75503_65503_675503_665503": "HTTP + HTTPS DOWNLINK - DOWNLOAD SPEED [KBIT/S] AVG.",
+      "76003_66003_676003_666003": "HTTP + HTTPS UPLINK - UPLOAD SPEED [KBIT/S] AVG."
+    }
+  },
+  {
+    "Avg-VideoDurationSec_All": {
+      "Video1_Video2_79007_679007": "STATIC YOU TUBE HD - AVERAGE VIDEO START TIME [s] on Qualified session (Time to First Picture)"
+    }
+  },
+  {
+    "Avg-VideoValuePixels_All": {
+      "Video1_Video2_79005_679005": "STATIC YOU TUBE HD - B5 AVG  VIDEO RESOLUTION FOR QUALIFIED VIDEOS"
+    }
+  },
+  {
+    "Avg-VideoValueVmos_All": {
+      "Video1_Video2_79006_679006": "STATIC YOU TUBE HD - B6 AVG  VIDEO MOS "
+    }
+  },
+  {
+    "Count-All": {
+      "Video1_Video2_79001_679001": "STATIC YOU TUBE HD - NUMBER OF VIDEO ACCESS ATTEMPTS"
+    }
+  },
+  {
+    "Count-ErrorCode_Equals_0_All": {
+      "Video1_Video2_79002_679002": "STATIC YOU TUBE HD - B2 NUMBERS OF DL REPRODUCTION WITHOUT INTERRUPTIONS"
+    }
+  },
+  {
+    "Count-ErrorCode_Not_0_All": {
+      "Video1_Video2_79001_679001": "STATIC YOU TUBE HD - NUMBER OF VIDEO FAILURES"
+    }
+  },
+  {
+    "Count-Value1_Major_1_Mbps_All": {
+      "75503_65503_675503_665503": "HTTP + HTTPS DOWNLINK - NUMBER OF DL WITH THROUGHPUT > 1 MBPS"
+    }
+  },
+  {
+    "Count-Value1_Major_2_Mbps_All": {
+      "76003_66003_676003_666003": "HTTP + HTTPS UPLINK - NUMBER OF DL WITH THROUGHPUT > 2 MBPS"
+    }
+  },
+  {
+    "Count-Value1_Major_3_Mbps_All": {
+      "75503_65503_675503_665503": "HTTP + HTTPS DOWNLINK - NUMBER OF DL WITH THROUGHPUT > 3 MBPS"
+    }
+  },
+  {
+    "Count-Value1_Major_10_Mbps_All": {
+      "75503_65503_675503_665503": "HTTP + HTTPS DOWNLINK - NUMBER OF DL WITH THROUGHPUT > 10 MBPS"
+    }
+  },
+  {
+    "Count-Value3_Equals_HD_All": {
+      "Video1_Video2_79004_679004": "STATIC YOU TUBE HD - NUMBERS OF VIDEOS STARTED AND TERMINATED IN HD WITHOUT VIDEO COMPRESSION"
+    }
+  },
+  {
+    "Count-Value3_Equals_HD_ErrorCode_Equals_0_All": {
+      "Video1_Video2_79004_679004": "STATIC YOU TUBE  - B4 HD SHARE - NUMBERS OF QUALIFIED VIDEO STARTED AND TERMINATED IN HD"
+    }
+  },
+  {
+    "Max_All": {}
+  },
+  {
+    "Median_All": {}
+  },
+  {
+    "Percentile-10th_All": {
+      "75503_65503_675503_665503": "HTTP + HTTPS DOWNLINK - 10TH PERCENTILE THR.",
+      "76003_66003_676003_666003": "HTTP + HTTPS UPLINK - 10TH PERCENTILE THR."
+    }
+  },
+  {
+    "Percentile-90th_All": {
+      "75503_65503_675503_665503": "HTTP + HTTPS DOWNLINK - 90TH PERCENTILE THR.",
+      "76003_66003_676003_666003": "HTTP + HTTPS UPLINK - 90TH PERCENTILE THR."
+    }
+  },
+  {
+    "StDev-All": {
+      "75503_65503_675503_665503": "HTTP + HTTPS DOWNLINK - THROUGHPUT STANDARD DEVIATION",
+      "76003_66003_676003_666003": "HTTP + HTTPS UPLINK - THROUGHPUT STANDARD DEVIATION"
+    }
+  }
+]
